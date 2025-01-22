@@ -1,0 +1,6 @@
+* 8bd7444 Homework 1.2.2
+* 93c238c added code's format
+* adf50eb added info about git commit --amend
+* 9d3887c added text in readme
+* e42cd28 changes tester name
+* 29a0545 added  first files
