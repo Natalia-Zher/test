@@ -1,3 +1,5 @@
+* 6d1bcfc (HEAD -> main, origin/main) Homework 1.2.3
+* f855f4e Tesx file with commints of homework 1.2.2
 * 8bd7444 Homework 1.2.2
 * 93c238c added code's format
 * adf50eb added info about git commit --amend
